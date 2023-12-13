@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/test2/static/css/main.7d503662.css",
+    "main.js": "/test2/static/js/main.41eaf003.js",
+    "static/media/Soccer_3_4.svg": "/test2/static/media/Soccer_3_4.130ad4ddc9211ee6232566dd4df57cb6.svg",
+    "static/media/Soccer_1_3.svg": "/test2/static/media/Soccer_1_3.61854e803a53cba9a5360d55e13a8dc9.svg",
+    "static/media/CrounLongHorizontal.svg": "/test2/static/media/CrounLongHorizontal.de446bd0a0e7682c2c1f43478da02a67.svg",
+    "static/media/Crown_long.svg": "/test2/static/media/Crown_long.2ea5ec4d138f6c2d244da7338db7a244.svg",
+    "static/media/Crown_3_6.svg": "/test2/static/media/Crown_3_6.e8a3d1ee424618c3f4472732cc9fe37a.svg",
+    "static/media/Crown_2_3.svg": "/test2/static/media/Crown_2_3.de97b256025f5291e4c1bae4e0d0c270.svg",
+    "static/media/WorldHorizontal.svg": "/test2/static/media/WorldHorizontal.e797360e3531703e4d1567a4eeaea3df.svg",
+    "static/media/World_2_4.svg": "/test2/static/media/World_2_4.b87d2c7d49cc54afb5508e3301228ee7.svg",
+    "static/media/M_3_2.svg": "/test2/static/media/M_3_2.2dff0d8ecec9aec34155a55e6a0ae3e2.svg",
+    "static/media/M_1_4.svg": "/test2/static/media/M_1_4.0396857e4229c8e5240eee61700a5528.svg",
+    "static/media/M_2_1.svg": "/test2/static/media/M_2_1.54906d9f7a5128607123a3a193a07947.svg",
+    "static/media/Shield_3_3.svg": "/test2/static/media/Shield_3_3.483667512925c2b566e196054b54381f.svg",
+    "static/media/Shield_1_1.svg": "/test2/static/media/Shield_1_1.ca8de64f9ad9ff709a8b6dea82bc0d6c.svg",
+    "static/media/$_1_2.svg": "/test2/static/media/$_1_2.e35ac57946ed5fdfe42d129cb4e8d49e.svg",
+    "static/media/$Horizontal.svg": "/test2/static/media/$Horizontal.8ce53e7fc93f0bae13e431f1619b1d87.svg",
+    "static/media/Timer_2_2.svg": "/test2/static/media/Timer_2_2.91e320a2eab8a4932e2ffd24c5f53b04.svg",
+    "static/media/Dot Light.svg": "/test2/static/media/Dot Light.b109f1647d89d56a950c86a178d50165.svg",
+    "index.html": "/test2/index.html",
+    "main.7d503662.css.map": "/test2/static/css/main.7d503662.css.map",
+    "main.41eaf003.js.map": "/test2/static/js/main.41eaf003.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d503662.css",
+    "static/js/main.41eaf003.js"
+  ]
+}
